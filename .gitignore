@@ -1,1 +1,4 @@
 /node_modules
+
+# outDir compilerOption of tsconfig.json
+/dist
